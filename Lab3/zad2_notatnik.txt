@@ -1,0 +1,1540 @@
+waga:  14.0  oraz kwota:  650.0
+['srebrne_szt', 'porcelana', 'figura_z_brazu']
+waga:  16.0  oraz kwota:  1150.0
+['obraz-pejzaz', 'laptop', 'srebrne_szt', 'porcelana']
+waga:  16.0  oraz kwota:  1150.0
+['obraz-pejzaz', 'laptop', 'srebrne_szt', 'porcelana']
+waga:  16.0  oraz kwota:  1150.0
+['obraz-pejzaz', 'laptop', 'srebrne_szt', 'porcelana']
+waga:  16.0  oraz kwota:  1150.0
+['obraz-pejzaz', 'laptop', 'srebrne_szt', 'porcelana']
+waga:  25.0  oraz kwota:  1380.0
+['obraz-pejzaz', 'laptop', 'figura_z_brazu', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1380.0
+['obraz-pejzaz', 'laptop', 'figura_z_brazu', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1380.0
+['obraz-pejzaz', 'laptop', 'figura_z_brazu', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1380.0
+['obraz-pejzaz', 'laptop', 'figura_z_brazu', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1380.0
+['obraz-pejzaz', 'laptop', 'figura_z_brazu', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1380.0
+['obraz-pejzaz', 'laptop', 'figura_z_brazu', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1380.0
+['obraz-pejzaz', 'laptop', 'figura_z_brazu', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1380.0
+['obraz-pejzaz', 'laptop', 'figura_z_brazu', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1380.0
+['obraz-pejzaz', 'laptop', 'figura_z_brazu', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1380.0
+['obraz-pejzaz', 'laptop', 'figura_z_brazu', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1380.0
+['obraz-pejzaz', 'laptop', 'figura_z_brazu', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1380.0
+['obraz-pejzaz', 'laptop', 'figura_z_brazu', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1380.0
+['obraz-pejzaz', 'laptop', 'figura_z_brazu', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1380.0
+['obraz-pejzaz', 'laptop', 'figura_z_brazu', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1380.0
+['obraz-pejzaz', 'laptop', 'figura_z_brazu', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1380.0
+['obraz-pejzaz', 'laptop', 'figura_z_brazu', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1380.0
+['obraz-pejzaz', 'laptop', 'figura_z_brazu', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1380.0
+['obraz-pejzaz', 'laptop', 'figura_z_brazu', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1380.0
+['obraz-pejzaz', 'laptop', 'figura_z_brazu', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1380.0
+['obraz-pejzaz', 'laptop', 'figura_z_brazu', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1380.0
+['obraz-pejzaz', 'laptop', 'figura_z_brazu', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1380.0
+['obraz-pejzaz', 'laptop', 'figura_z_brazu', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1380.0
+['obraz-pejzaz', 'laptop', 'figura_z_brazu', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1380.0
+['obraz-pejzaz', 'laptop', 'figura_z_brazu', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1380.0
+['obraz-pejzaz', 'laptop', 'figura_z_brazu', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1380.0
+['obraz-pejzaz', 'laptop', 'figura_z_brazu', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1380.0
+['obraz-pejzaz', 'laptop', 'figura_z_brazu', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1380.0
+['obraz-pejzaz', 'laptop', 'figura_z_brazu', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1380.0
+['obraz-pejzaz', 'laptop', 'figura_z_brazu', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1380.0
+['obraz-pejzaz', 'laptop', 'figura_z_brazu', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1380.0
+['obraz-pejzaz', 'laptop', 'figura_z_brazu', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1380.0
+['obraz-pejzaz', 'laptop', 'figura_z_brazu', 'skorzana_torebka']
+waga:  19.0  oraz kwota:  1430.0
+['obraz-pejzaz', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  19.0  oraz kwota:  1430.0
+['obraz-pejzaz', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
+waga:  25.0  oraz kwota:  1630.0
+['obraz-pejzaz', 'ograz-portret', 'laptop', 'srebrne_szt', 'porcelana', 'skorzana_torebka']
